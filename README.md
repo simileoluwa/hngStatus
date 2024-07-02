@@ -7,7 +7,7 @@
 <ul>
 
 <li>https://www.freecodecamp.org/news/html-css-11-hour-course/</li>
-HTML Tutorial: https://www.w3schools.com/html/</li>
+<li>HTML Tutorial: https://www.w3schools.com/html/</li>
 <li>CSS Tutorial: https://www.w3schools.com/css/</li>
 <li>Responsive Web Design Guide: https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode</li>
 <li>HTMLImageElement: https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalHeight</li>
